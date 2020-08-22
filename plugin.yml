@@ -1,0 +1,13 @@
+name: EarthEngine
+description: Core plugin for Earth A-137
+version: 1.0
+author: Kwright02
+main: me.kw.ee.EarthEngine
+api-version: 1.15
+commands:
+  cl:
+    description: clear console
+  clear:
+    description: clear console
+  nation:
+    description: manage nation
